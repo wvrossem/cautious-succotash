@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Wouter&#x27;s Scratch Portfolio</title>
-    <link href="https://github.com/wvrossem/cautious-succotash/feed.xml" rel="self" />
-    <link href="https://github.com/wvrossem/cautious-succotash" />
+    <link href="https://wvrossem.github.io/cautious-succotash/feed.xml" rel="self" />
+    <link href="https://wvrossem.github.io/cautious-succotash" />
     <updated>2026-03-16T14:12:00+09:00</updated>
     <author>
         <name>Wouter Van Rossem</name>
     </author>
-    <id>https://github.com/wvrossem/cautious-succotash</id>
+    <id>https://wvrossem.github.io/cautious-succotash</id>
 
     <entry>
         <title>Noise sensitive virtual pet</title>
         <author>
             <name>Wouter Van Rossem</name>
         </author>
-        <link href="https://github.com/wvrossem/cautious-succotash/template-4.html"/>
-        <id>https://github.com/wvrossem/cautious-succotash/template-4.html</id>
-        <media:content url="https://github.com/wvrossem/cautious-succotash/media/posts/7/Screenshot-2026-03-16-at-14-11-51-Microsoft-MakeCode-for-micro-bit.png" medium="image" />
+        <link href="https://wvrossem.github.io/cautious-succotash/template-4.html"/>
+        <id>https://wvrossem.github.io/cautious-succotash/template-4.html</id>
+        <media:content url="https://wvrossem.github.io/cautious-succotash/media/posts/7/Screenshot-2026-03-16-at-14-11-51-Microsoft-MakeCode-for-micro-bit.png" medium="image" />
             <category term="microbit"/>
             <category term="makecode"/>
 
         <updated>2026-03-16T14:07:20+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/wvrossem/cautious-succotash/media/posts/7/Screenshot-2026-03-16-at-14-11-51-Microsoft-MakeCode-for-micro-bit.png" alt="" />
+                        <img src="https://wvrossem.github.io/cautious-succotash/media/posts/7/Screenshot-2026-03-16-at-14-11-51-Microsoft-MakeCode-for-micro-bit.png" alt="" />
                     🚀 Name of Your Project Date: March 2026 Coding Language: MakeCode and micro:bit This is a kind of virtual pet&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/wvrossem/cautious-succotash/media/posts/7/Screenshot-2026-03-16-at-14-11-51-Microsoft-MakeCode-for-micro-bit.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://wvrossem.github.io/cautious-succotash/media/posts/7/Screenshot-2026-03-16-at-14-11-51-Microsoft-MakeCode-for-micro-bit.png" class="type:primaryImage" alt="" /></p>
                 <h2 data-path-to-node="5">🚀 Name of Your Project</h2>
 <p data-path-to-node="6"><strong data-path-to-node="6" data-index-in-node="0">Date:</strong> March 2026</p>
 <p data-path-to-node="6"><strong data-path-to-node="6" data-index-in-node="21">Coding Language:</strong> MakeCode and micro:bit</p>
@@ -51,21 +51,21 @@
         <author>
             <name>Wouter Van Rossem</name>
         </author>
-        <link href="https://github.com/wvrossem/cautious-succotash/template-3.html"/>
-        <id>https://github.com/wvrossem/cautious-succotash/template-3.html</id>
-        <media:content url="https://github.com/wvrossem/cautious-succotash/media/posts/6/Screenshot-2026-03-16-at-14-01-53-Snowball-Fight-on-Scratch.png" medium="image" />
+        <link href="https://wvrossem.github.io/cautious-succotash/template-3.html"/>
+        <id>https://wvrossem.github.io/cautious-succotash/template-3.html</id>
+        <media:content url="https://wvrossem.github.io/cautious-succotash/media/posts/6/Screenshot-2026-03-16-at-14-01-53-Snowball-Fight-on-Scratch.png" medium="image" />
             <category term="scratch"/>
 
         <updated>2026-03-16T14:01:35+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/wvrossem/cautious-succotash/media/posts/6/Screenshot-2026-03-16-at-14-01-53-Snowball-Fight-on-Scratch.png" alt="" />
+                        <img src="https://wvrossem.github.io/cautious-succotash/media/posts/6/Screenshot-2026-03-16-at-14-01-53-Snowball-Fight-on-Scratch.png" alt="" />
                     🚀 Snowball Fight Project Date: 2025 Coding Language: Scratch This is a small game of throwing a snowball, competing against&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/wvrossem/cautious-succotash/media/posts/6/Screenshot-2026-03-16-at-14-01-53-Snowball-Fight-on-Scratch.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://wvrossem.github.io/cautious-succotash/media/posts/6/Screenshot-2026-03-16-at-14-01-53-Snowball-Fight-on-Scratch.png" class="type:primaryImage" alt="" /></p>
                 <h2 data-path-to-node="5">🚀 Snowball Fight Project</h2>
 <p data-path-to-node="6"><strong data-path-to-node="6" data-index-in-node="0">Date:</strong> 2025</p>
 <p data-path-to-node="6"><strong data-path-to-node="6" data-index-in-node="21">Coding Language:</strong> Scratch</p>
@@ -89,22 +89,22 @@
         <author>
             <name>Wouter Van Rossem</name>
         </author>
-        <link href="https://github.com/wvrossem/cautious-succotash/infinite-scroller-game.html"/>
-        <id>https://github.com/wvrossem/cautious-succotash/infinite-scroller-game.html</id>
-        <media:content url="https://github.com/wvrossem/cautious-succotash/media/posts/3/Screenshot-2026-03-16-at-12-28-04-Infinite-Scroller-Game-on-Scratch.png" medium="image" />
+        <link href="https://wvrossem.github.io/cautious-succotash/infinite-scroller-game.html"/>
+        <id>https://wvrossem.github.io/cautious-succotash/infinite-scroller-game.html</id>
+        <media:content url="https://wvrossem.github.io/cautious-succotash/media/posts/3/Screenshot-2026-03-16-at-12-28-04-Infinite-Scroller-Game-on-Scratch.png" medium="image" />
             <category term="scratch"/>
             <category term="games"/>
 
         <updated>2026-03-16T12:35:02+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/wvrossem/cautious-succotash/media/posts/3/Screenshot-2026-03-16-at-12-28-04-Infinite-Scroller-Game-on-Scratch.png" alt="" />
+                        <img src="https://wvrossem.github.io/cautious-succotash/media/posts/3/Screenshot-2026-03-16-at-12-28-04-Infinite-Scroller-Game-on-Scratch.png" alt="" />
                     🎮 About My Project I wanted to make a game inspired by an "Infinite Scroller" game I found on Kongregate&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/wvrossem/cautious-succotash/media/posts/3/Screenshot-2026-03-16-at-12-28-04-Infinite-Scroller-Game-on-Scratch.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://wvrossem.github.io/cautious-succotash/media/posts/3/Screenshot-2026-03-16-at-12-28-04-Infinite-Scroller-Game-on-Scratch.png" class="type:primaryImage" alt="" /></p>
                 <h2>🎮 About My Project</h2>
 <p>I wanted to make a game inspired by an "Infinite Scroller" game I found on Kongregate <a href="https://www.kongregate.com/games/mjkgames/infinite-scroller">https://www.kongregate.com/games/mjkgames/infinite-scroller</a></p>
 <h2>🧩 How It Works (The Logic)</h2>
@@ -125,21 +125,21 @@
         <author>
             <name>Wouter Van Rossem</name>
         </author>
-        <link href="https://github.com/wvrossem/cautious-succotash/my-portfolio.html"/>
-        <id>https://github.com/wvrossem/cautious-succotash/my-portfolio.html</id>
-        <media:content url="https://github.com/wvrossem/cautious-succotash/media/posts/1/Screenshot-2026-03-16-at-12-21-59-Sadaritagi-sadaritagi-on-Scratch.png" medium="image" />
+        <link href="https://wvrossem.github.io/cautious-succotash/my-portfolio.html"/>
+        <id>https://wvrossem.github.io/cautious-succotash/my-portfolio.html</id>
+        <media:content url="https://wvrossem.github.io/cautious-succotash/media/posts/1/Screenshot-2026-03-16-at-12-21-59-Sadaritagi-sadaritagi-on-Scratch.png" medium="image" />
             <category term="scratch"/>
 
         <updated>2026-03-16T12:08:08+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/wvrossem/cautious-succotash/media/posts/1/Screenshot-2026-03-16-at-12-21-59-Sadaritagi-sadaritagi-on-Scratch.png" alt="" />
+                        <img src="https://wvrossem.github.io/cautious-succotash/media/posts/1/Screenshot-2026-03-16-at-12-21-59-Sadaritagi-sadaritagi-on-Scratch.png" alt="" />
                     🚀 Sadaritagi 사다리타기 Date: June 2025 Coding Language: Scratch Work in progress version of the Korean Sadaritagi (사다리타기 "ladder climbing") game.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/wvrossem/cautious-succotash/media/posts/1/Screenshot-2026-03-16-at-12-21-59-Sadaritagi-sadaritagi-on-Scratch.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://wvrossem.github.io/cautious-succotash/media/posts/1/Screenshot-2026-03-16-at-12-21-59-Sadaritagi-sadaritagi-on-Scratch.png" class="type:primaryImage" alt="" /></p>
                 <h2 data-path-to-node="5">🚀 Sadaritagi 사다리타기</h2>
 <p data-path-to-node="6"><strong data-path-to-node="6" data-index-in-node="0">Date: </strong>June 2025</p>
 <p data-path-to-node="6"><strong data-path-to-node="6" data-index-in-node="21">Coding Language:</strong> Scratch</p>

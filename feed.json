@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Wouter&#x27;s Scratch Portfolio",
     "description": "",
-    "home_page_url": "https://github.com/wvrossem/cautious-succotash",
-    "feed_url": "https://github.com/wvrossem/cautious-succotash/feed.json",
+    "home_page_url": "https://wvrossem.github.io/cautious-succotash",
+    "feed_url": "https://wvrossem.github.io/cautious-succotash/feed.json",
     "user_comment": "",
     "author": {
         "name": "Wouter Van Rossem"
     },
     "items": [
         {
-            "id": "https://github.com/wvrossem/cautious-succotash/template-4.html",
-            "url": "https://github.com/wvrossem/cautious-succotash/template-4.html",
+            "id": "https://wvrossem.github.io/cautious-succotash/template-4.html",
+            "url": "https://wvrossem.github.io/cautious-succotash/template-4.html",
             "title": "Noise sensitive virtual pet",
             "summary": "🚀 Name of Your Project Date: March 2026 Coding Language: MakeCode and micro:bit This is a kind of virtual pet&hellip;",
             "content_html": "<h2 data-path-to-node=\"5\">🚀 Name of Your Project</h2>\n<p data-path-to-node=\"6\"><strong data-path-to-node=\"6\" data-index-in-node=\"0\">Date:</strong> March 2026</p>\n<p data-path-to-node=\"6\"><strong data-path-to-node=\"6\" data-index-in-node=\"21\">Coding Language:</strong> MakeCode and micro:bit</p>\n<h3 data-path-to-node=\"8\">🎮 About My Project</h3>\n<p data-path-to-node=\"9\">This is a kind of virtual pet (tamagotchi) that gets angry when it is disturbed by loud noises!</p>\n<h3 data-path-to-node=\"11\">🧩 How It Works (The Logic)</h3>\n<p data-path-to-node=\"13,0,0\">The project uses the micro:bit microphone and noise level blocks.</p>\n<h3 data-path-to-node=\"14\">🐞 What I Want to Improve</h3>\n<p data-path-to-node=\"15\">I would like to add more different interactions with the virtual pet.</p>\n<h3 data-path-to-node=\"16,0,0\">🌟 Try It Out!</h3>\n<p> </p>\n<div style=\"position: relative; height: 0; padding-bottom: 81.97%; overflow: hidden;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://makecode.microbit.org/---run?id=_7UygLtdLMA4v\" allowfullscreen=\"allowfullscreen\" sandbox=\"allow-popups allow-forms allow-scripts allow-same-origin\" frameborder=\"0\"></iframe></div></div>\n<div style=\"position: relative; height: calc(300px + 5em); width: 100%; overflow: hidden;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://makecode.microbit.org/---codeembed#pub:_7UygLtdLMA4v\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\" sandbox=\"allow-scripts allow-same-origin\"></iframe></div></div>",
-            "image": "https://github.com/wvrossem/cautious-succotash/media/posts/7/Screenshot-2026-03-16-at-14-11-51-Microsoft-MakeCode-for-micro-bit.png",
+            "image": "https://wvrossem.github.io/cautious-succotash/media/posts/7/Screenshot-2026-03-16-at-14-11-51-Microsoft-MakeCode-for-micro-bit.png",
             "author": {
                 "name": "Wouter Van Rossem"
             },
@@ -27,12 +27,12 @@
             "date_modified": "2026-03-16T14:12:00+09:00"
         },
         {
-            "id": "https://github.com/wvrossem/cautious-succotash/template-3.html",
-            "url": "https://github.com/wvrossem/cautious-succotash/template-3.html",
+            "id": "https://wvrossem.github.io/cautious-succotash/template-3.html",
+            "url": "https://wvrossem.github.io/cautious-succotash/template-3.html",
             "title": "Snowball Fight",
             "summary": "🚀 Snowball Fight Project Date: 2025 Coding Language: Scratch This is a small game of throwing a snowball, competing against&hellip;",
             "content_html": "<h2 data-path-to-node=\"5\">🚀 Snowball Fight Project</h2>\n<p data-path-to-node=\"6\"><strong data-path-to-node=\"6\" data-index-in-node=\"0\">Date:</strong> 2025</p>\n<p data-path-to-node=\"6\"><strong data-path-to-node=\"6\" data-index-in-node=\"21\">Coding Language:</strong> Scratch</p>\n<h3 data-path-to-node=\"8\">🎮 About My Project</h3>\n<p data-path-to-node=\"9\">This is a small game of throwing a snowball, competing against a computer opponent.</p>\n<p data-path-to-node=\"9\">User uses the left and right arrows to aim, and the up and down arrows to control the power of their throw.</p>\n<h3 data-path-to-node=\"11\">🧩 How It Works (The Logic)</h3>\n<p data-path-to-node=\"13,0,0\">The codes uses some simple physics to throw a snowball in a curve.</p>\n<p data-path-to-node=\"13,0,0\">There is also a computer opponent which makes random throws.</p>\n<p data-path-to-node=\"13,0,0\">The game also includes start and end screens.</p>\n<h3 data-path-to-node=\"14\">🐞 What I Want to Improve</h3>\n<p data-path-to-node=\"15\">What is a problem you project has and how could you you fix it?</p>\n<h3 data-path-to-node=\"16,0,0\">🌟 Try It Out!</h3>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"485\" height=\"402\" src=\"https://scratch.mit.edu/projects/1185905678/embed\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>",
-            "image": "https://github.com/wvrossem/cautious-succotash/media/posts/6/Screenshot-2026-03-16-at-14-01-53-Snowball-Fight-on-Scratch.png",
+            "image": "https://wvrossem.github.io/cautious-succotash/media/posts/6/Screenshot-2026-03-16-at-14-01-53-Snowball-Fight-on-Scratch.png",
             "author": {
                 "name": "Wouter Van Rossem"
             },
@@ -43,12 +43,12 @@
             "date_modified": "2026-03-16T14:11:41+09:00"
         },
         {
-            "id": "https://github.com/wvrossem/cautious-succotash/infinite-scroller-game.html",
-            "url": "https://github.com/wvrossem/cautious-succotash/infinite-scroller-game.html",
+            "id": "https://wvrossem.github.io/cautious-succotash/infinite-scroller-game.html",
+            "url": "https://wvrossem.github.io/cautious-succotash/infinite-scroller-game.html",
             "title": "Infinite Scroller Game",
             "summary": "🎮 About My Project I wanted to make a game inspired by an \"Infinite Scroller\" game I found on Kongregate&hellip;",
             "content_html": "<h2>🎮 About My Project</h2>\n<p>I wanted to make a game inspired by an \"Infinite Scroller\" game I found on Kongregate <a href=\"https://www.kongregate.com/games/mjkgames/infinite-scroller\">https://www.kongregate.com/games/mjkgames/infinite-scroller</a></p>\n<h2>🧩 How It Works (The Logic)</h2>\n<p>I'm using a simple bar with a gap which appears at a random position on the X axis so that the gap moves around.</p>\n<p>The player's ball is always falling and can be moved through the gaps.</p>\n<h2>🐞 What I Still Want To Improve</h2>\n<ul>\n<li>I want to add a score system and a way for the player to win or lose.</li>\n<li>The ball should fall more naturally.</li>\n</ul>\n<h2>🌟 Try It Out!</h2>\n<h2><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"485\" height=\"402\" src=\"https://scratch.mit.edu/projects/1188766724/embed\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></h2>",
-            "image": "https://github.com/wvrossem/cautious-succotash/media/posts/3/Screenshot-2026-03-16-at-12-28-04-Infinite-Scroller-Game-on-Scratch.png",
+            "image": "https://wvrossem.github.io/cautious-succotash/media/posts/3/Screenshot-2026-03-16-at-12-28-04-Infinite-Scroller-Game-on-Scratch.png",
             "author": {
                 "name": "Wouter Van Rossem"
             },
@@ -60,12 +60,12 @@
             "date_modified": "2026-03-16T13:02:05+09:00"
         },
         {
-            "id": "https://github.com/wvrossem/cautious-succotash/my-portfolio.html",
-            "url": "https://github.com/wvrossem/cautious-succotash/my-portfolio.html",
+            "id": "https://wvrossem.github.io/cautious-succotash/my-portfolio.html",
+            "url": "https://wvrossem.github.io/cautious-succotash/my-portfolio.html",
             "title": "Korean Ladder Game",
             "summary": "🚀 Sadaritagi 사다리타기 Date: June 2025 Coding Language: Scratch Work in progress version of the Korean Sadaritagi (사다리타기 \"ladder climbing\") game.",
             "content_html": "<h2 data-path-to-node=\"5\">🚀 Sadaritagi 사다리타기</h2>\n<p data-path-to-node=\"6\"><strong data-path-to-node=\"6\" data-index-in-node=\"0\">Date: </strong>June 2025</p>\n<p data-path-to-node=\"6\"><strong data-path-to-node=\"6\" data-index-in-node=\"21\">Coding Language:</strong> Scratch</p>\n<h3 data-path-to-node=\"8\">🎮 About My Project</h3>\n<p data-path-to-node=\"9\">Work in progress version of the Korean Sadaritagi (사다리타기 \"ladder climbing\") game. It's kind of game to create random pairings. In this version a cat randomly starts at one of the four legs and will randomly end up at one of the four end points due to the randomly placed ladder legs.<br><br>It is also known in Japanese as Amidakuji (阿弥陀籤; \"Amida lottery\") and in Chinese as Guijiaotu (Chinese: 鬼腳圖,  \"ghost leg diagram\"). </p>\n<h3 data-path-to-node=\"11\">🧩 How It Works (The Logic)</h3>\n<p data-path-to-node=\"13,0,0\">The code draws the ladders by drawing the vertical lines and randomly placed horizontal lines to connect the different \"legs\".</p>\n<p data-path-to-node=\"13,0,0\">It cat moves downwards and uses the green and purple dots on the connecting legs to move between the legs.</p>\n<h3 data-path-to-node=\"14\">🐞 What I Want to Improve</h3>\n<p data-path-to-node=\"15\">The cat should make a combination for each starting and ending position.</p>\n<h3 data-path-to-node=\"16,0,0\">🌟 Try It Out!</h3>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"485\" height=\"402\" src=\"https://scratch.mit.edu/projects/1240359102/embed\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://github.com/wvrossem/cautious-succotash/media/posts/1/Screenshot-2026-03-16-at-12-21-59-Sadaritagi-sadaritagi-on-Scratch.png",
+            "image": "https://wvrossem.github.io/cautious-succotash/media/posts/1/Screenshot-2026-03-16-at-12-21-59-Sadaritagi-sadaritagi-on-Scratch.png",
             "author": {
                 "name": "Wouter Van Rossem"
             },
