@@ -3,7 +3,7 @@
     <title>Wouter&#x27;s Scratch Portfolio</title>
     <link href="https://wvrossem.github.io/cautious-succotash/feed.xml" rel="self" />
     <link href="https://wvrossem.github.io/cautious-succotash" />
-    <updated>2026-03-18T16:21:24+09:00</updated>
+    <updated>2026-03-18T16:24:21+09:00</updated>
     <author>
         <name>Wouter Van Rossem</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://wvrossem.github.io/cautious-succotash/makey-makey-example.html"/>
         <id>https://wvrossem.github.io/cautious-succotash/makey-makey-example.html</id>
+        <media:content url="https://wvrossem.github.io/cautious-succotash/media/posts/12/plug_and_play_600x600.webp" medium="image" />
 
         <updated>2026-03-18T16:21:24+09:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://wvrossem.github.io/cautious-succotash/media/posts/12/plug_and_play_600x600.webp" alt="" />
                     About my project &nbsp;Consequatur exercitationem harum modi eaque ut repudiandae quaerat. Vero et excepturi repudiandae recusandae et nulla. Libero non&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://wvrossem.github.io/cautious-succotash/media/posts/12/plug_and_play_600x600.webp" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="about-my-project">
       About my project
@@ -81,15 +84,18 @@
         </author>
         <link href="https://wvrossem.github.io/cautious-succotash/dinos-world.html"/>
         <id>https://wvrossem.github.io/cautious-succotash/dinos-world.html</id>
+        <media:content url="https://wvrossem.github.io/cautious-succotash/media/posts/11/Screenshot-2026-03-18-at-16-23-58-Dinos-World-on-Scratch.png" medium="image" />
 
         <updated>2026-03-18T15:48:48+09:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://wvrossem.github.io/cautious-succotash/media/posts/11/Screenshot-2026-03-18-at-16-23-58-Dinos-World-on-Scratch.png" alt="" />
                     Help the dino get back home by planting your flag and following the portals back. Use to arrow keys or&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://wvrossem.github.io/cautious-succotash/media/posts/11/Screenshot-2026-03-18-at-16-23-58-Dinos-World-on-Scratch.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Help the dino get back home by planting your flag and following the portals back.<br><br>Use to arrow keys or awsd to move. Press up or w to enter a portal.

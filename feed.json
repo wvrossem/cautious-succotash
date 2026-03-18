@@ -15,13 +15,14 @@
             "title": "Makey Makey example",
             "summary": "About my project &nbsp;Consequatur exercitationem harum modi eaque ut repudiandae quaerat. Vero et excepturi repudiandae recusandae et nulla. Libero non&hellip;",
             "content_html": "\n    <h2 id=\"about-my-project\">\n      About my project\n    </h2>\n\n  <p>\n    &nbsp;Consequatur exercitationem harum modi eaque ut repudiandae quaerat. Vero et excepturi repudiandae recusandae et nulla. Libero non qui ut enim rerum. Ducimus laudantium dignissimos vitae temporibus nostrum. Non est dolores laboriosam dolor sed vel architecto ipsam.&nbsp;\n  </p>\n\n    <h2 id=\"how-it-works\">\n      How it works\n    </h2>\n\n  <p>\n    &nbsp;Consequatur exercitationem harum modi eaque ut repudiandae quaerat. Vero et excepturi repudiandae recusandae et nulla. Libero non qui ut enim rerum. Ducimus laudantium dignissimos vitae temporibus nostrum. Non est dolores laboriosam dolor sed vel architecto ipsam.\n  </p>\n\n    <h2 id=\"see-it-in-actionandnbsp\">\n      See it in action&nbsp;\n    </h2>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"2\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://wvrossem.github.io/cautious-succotash/media/posts/12/gallery/plug_and_play_600x600_copy.png\" data-size=\"600x450\">\n        <img loading=\"lazy\" src=\"https://wvrossem.github.io/cautious-succotash/media/posts/12/gallery/plug_and_play_600x600_copy-thumbnail.png\" height=\"450\" width=\"600\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://wvrossem.github.io/cautious-succotash/media/posts/12/gallery/6_test_keys_and_scale_600x600_copy.png\" data-size=\"600x450\">\n        <img loading=\"lazy\" src=\"https://wvrossem.github.io/cautious-succotash/media/posts/12/gallery/6_test_keys_and_scale_600x600_copy-thumbnail.png\" height=\"450\" width=\"600\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://wvrossem.github.io/cautious-succotash/media/posts/12/gallery/5_test_that_mouse_keys_are_now_numbers_600x600_copy.png\" data-size=\"600x450\">\n        <img loading=\"lazy\" src=\"https://wvrossem.github.io/cautious-succotash/media/posts/12/gallery/5_test_that_mouse_keys_are_now_numbers_600x600_copy-thumbnail.png\" height=\"450\" width=\"600\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://wvrossem.github.io/cautious-succotash/media/posts/12/gallery/1_place_fasteners_600x600_copy.png\" data-size=\"600x450\">\n        <img loading=\"lazy\" src=\"https://wvrossem.github.io/cautious-succotash/media/posts/12/gallery/1_place_fasteners_600x600_copy-thumbnail.png\" height=\"450\" width=\"600\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://wvrossem.github.io/cautious-succotash/media/posts/12/plug_and_play_600x600.webp",
             "author": {
                 "name": "Wouter Van Rossem"
             },
             "tags": [
             ],
             "date_published": "2026-03-18T16:21:24+09:00",
-            "date_modified": "2026-03-18T16:21:24+09:00"
+            "date_modified": "2026-03-18T16:24:21+09:00"
         },
         {
             "id": "https://wvrossem.github.io/cautious-succotash/dinos-world.html",
@@ -29,13 +30,14 @@
             "title": "Dino&#x27;s World",
             "summary": "Help the dino get back home by planting your flag and following the portals back. Use to arrow keys or&hellip;",
             "content_html": "\n  <p>\n    Help the dino get back home by planting your flag and following the portals back.<br><br>Use to arrow keys or awsd to move. Press up or w to enter a portal.\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://scratch.mit.edu/projects/1198699729/embed\" allowtransparency=\"true\" width=\"485\" height=\"402\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe></div></div>",
+            "image": "https://wvrossem.github.io/cautious-succotash/media/posts/11/Screenshot-2026-03-18-at-16-23-58-Dinos-World-on-Scratch.png",
             "author": {
                 "name": "Wouter Van Rossem"
             },
             "tags": [
             ],
             "date_published": "2026-03-18T15:48:48+09:00",
-            "date_modified": "2026-03-18T15:48:48+09:00"
+            "date_modified": "2026-03-18T16:24:10+09:00"
         },
         {
             "id": "https://wvrossem.github.io/cautious-succotash/template-4.html",
